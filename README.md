@@ -5,3 +5,5 @@ Devise - /config/initializers/devise.rb - See config.mailer_sender Cancancan - M
 For background jobs, install sidekiq. Must install Redis to use that. Not always unnecessary because Rails 5 has a default.
 
 /config/application.rb - Must customize email-settings
+
+Will add I18n support soon.

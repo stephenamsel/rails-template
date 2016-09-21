@@ -65,4 +65,6 @@ gem 'formtastic', '~> 3.0'
 #front-end asset-management to couple with AngularJS and other JS frameworks
 gem 'bower-rails' #javascript manager, runs Angular in template
 gem "teaspoon" #for javascript testing
+gem "teaspoon-jasmine"
+gem "phantomjs"
 #add host-specific gems here

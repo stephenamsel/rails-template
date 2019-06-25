@@ -7,3 +7,5 @@ For background jobs, install sidekiq. Must install Redis to use that. Not always
 /config/application.rb - Must customize email-settings
 
 Will add I18n support soon.
+
+NOTE: This is outdated. Will replace with a new Template when I have the time.
